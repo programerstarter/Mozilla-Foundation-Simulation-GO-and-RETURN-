@@ -1,1 +1,1 @@
-Check it out upward
+Check it out above
