@@ -1,0 +1,5 @@
+{
+  "name": "Simulador de Navegador Java",
+  "description": "Um programa em Java que simula os botões voltar e avançar de um navegador utilizando pilhas, apresentado em uma interface web interativa.",
+  "requestFramePermissions": []
+}
